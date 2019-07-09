@@ -1,3 +1,5 @@
+"use strict"
+
 const chai = require('chai')
 
 const bookshelf = require('../../app/db/bookshelf')
